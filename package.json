@@ -4,7 +4,7 @@
   "description": "A teeny tiny Mugsy controller",
   "main": "main.js",
   "scripts": {
-    "start": "electron .",
+    "start": "electron ."
   },
   "author": "margyle",
   "license": "MIT",
